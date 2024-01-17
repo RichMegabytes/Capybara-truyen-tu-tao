@@ -1,0 +1,9 @@
+header {
+  text-align: center;
+  background-color: aqua;
+}
+nav,
+ul,
+li {
+  background-color: aquamarine;
+}
